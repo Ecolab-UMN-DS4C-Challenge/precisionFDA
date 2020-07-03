@@ -4,12 +4,12 @@
 Responsibilities: Our team chose to split the work for this challenge based on the submission files.  The contributors are listed next to each model in the table of contents.  Although we worked on separate models, we each collaborated across the various tasks.
 
 # Table of Contents
-1. [General Remarks] (#general)
-1. [Covid-19 Status] (#covid) -- Siqi Ke
-2. [Days Hospitalized] (#hostpital) -- Hena Ghonia & Khoi Mai
-3. [Days in ICU] (#icu) --  James Broomfield
-4. [Ventilation ] (#ventilation) -- Chen Sun
-5. [Alive or Deceased Status] (#aod) -- Tianyi Sun
+1. [General Remarks](#general)
+2. [Covid-19 Status](#covid) -- Siqi Ke
+3. [Days Hospitalized](#hostpital) -- Hena Ghonia & Khoi Mai
+4. [Days in ICU](#icu) --  James Broomfield
+5. [Ventilation](#ventilation) -- Chen Sun
+6. [Alive or Deceased Status](#aod) -- Tianyi Sun
 
 # General Remarks <a name="general"></a>
 
@@ -91,7 +91,7 @@ The features used for predicting duration of ICU stay are:
 
 Again, a breakdown of feature importance and risk factors can be seen in the reports folder in our <a href="https://github.com/Ecolab-UMN-DS4C-Challenge/precisionFDA"> GitHub</a> repository
 
-# Ventilation Status Model <a name="icu"></a>
+# Ventilation Status Model <a name="ventilation"></a>
 
 The features used for predicting controlled ventilation status are:
 
