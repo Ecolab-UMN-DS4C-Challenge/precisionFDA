@@ -110,11 +110,30 @@ Old age is the primary risk factor, that is elderly's are more likely to be cont
 
 # Alive or Deceased Status <a name="aod"></a>
 
-The features used for predicting controlled ventilation status are:
+The features used for predicting alive or deceased status are:
 
 - Age of patients
-- Days in ICU
+- Gender of patients
+- Healthcare expenses of the patients 
+- Covid-19 model predictions
+- Days Hospitalized model predictions
+- Days in ICU model predictions
+- Days ventilation model predictions
+- History of pulmonary disease status of patients 
+- History of Viral pharyngitis disorder status of patients 
+- History of Chronic deasease status of patients
+- History of Cardiopathy deasease status of patients 
+- History of Oxygen Therapy status of patients 
+- A variety of immunization status of patients 
 
 ## Protection and Risk Factors
 
-Old age is the primary risk factor, that is elderly's are more likely to pass away due to complications.  The additional risk factors are accounted for by the various other models.
+Protective factor: 
+Patients who got PCV vaccine are less likely to die due to covid-19, compared to those who didn't. 
+
+Risk factors: 
+Old age is the primary risk factor, that is elderly's are more likely to die due to covid-19.  
+There are a fair number of covid-19 patients who didn't die due to covid-19, They died due to chronic comorbidities that had existed a long time in their life. 
+Patients who died due to covid-19 are more likely to get a variety of other diseases such as heart disease after they got covid-19. 
+Patients who died due to covid-19 are more likely to have some history disorder of pulmonary disease before they got covid-19 such as  Non-small cell carcinoma of lung TNM and Primary small cell malignant neoplasm of lung TNM. 
+
