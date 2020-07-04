@@ -128,12 +128,12 @@ The features used for predicting alive or deceased status are:
 
 ## Protection and Risk Factors
 
-Protective factor: 
+Protective factor: /
 Patients who got PCV vaccine are less likely to die due to covid-19, compared to those who didn't. 
 
-Risk factors: 
-Old age is the primary risk factor, that is elderly's are more likely to die due to covid-19.  
-There are a fair number of covid-19 patients who didn't die due to covid-19, They died due to chronic comorbidities that had existed a long time in their life. 
-Patients who died due to covid-19 are more likely to get a variety of other diseases such as heart disease after they got covid-19. 
-Patients who died due to covid-19 are more likely to have some history disorder of pulmonary disease before they got covid-19 such as  Non-small cell carcinoma of lung TNM and Primary small cell malignant neoplasm of lung TNM. 
+Risk factors: /
+Old age is the primary risk factor, that is elderly's are more likely to die due to covid-19.  /
+There are a fair number of covid-19 patients who didn't die due to covid-19, They died due to chronic comorbidities that had existed a long time in their life. /
+Patients who died due to covid-19 are more likely to get a variety of other diseases such as heart disease after they got covid-19. /
+Patients who died due to covid-19 are more likely to have some history disorder of pulmonary disease before they got covid-19 such as  Non-small cell carcinoma of lung TNM and Primary small cell malignant neoplasm of lung TNM. /
 
