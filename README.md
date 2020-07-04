@@ -8,7 +8,7 @@ Responsibilities: Our team chose to split the work for this challenge based on t
 2. [Covid-19 Status](#covid) -- Siqi Ke
 3. [Days Hospitalized](#hostpital) -- Hena Ghonia & Khoi Mai
 4. [Days in ICU](#icu) --  James Broomfield
-5. [Ventilation](#ventilation) -- Chen Sun
+5. [Ventilation](#ventilation) -- Chen Yu
 6. [Alive or Deceased Status](#aod) -- Tianyi Sun
 
 # General Remarks <a name="general"></a>
