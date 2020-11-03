@@ -126,7 +126,7 @@ The features used for predicting alive or deceased status are:
 - Days in ICU prediction
 - Days ventilation prediction
 
-## Protection and Risk Factor:
+## Protection and Risk Factors:
 
 Patients who got PCV vaccine are less likely to die due to COVID-19 than those who didn't. 
 
