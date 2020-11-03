@@ -128,9 +128,9 @@ The features used for predicting alive or deceased status are:
 
 ## Protection and Risk Factor:
 
-Patients who got PCV vaccine are less likely to die due to COVID-19 than those who didn't. 
+- Patients who got PCV vaccine are less likely to die due to COVID-19 than those who didn't. 
 
-Elderly's are more likely to die due to COVID-19.  
-There are a fair number of COVID-19 infections died due to chronic comorbidities instead of COVID. 
-COVID-19 infections are more likely to get other diseases such as heart diseases before they died. 
-Patients who died due to covid-19 are more likely to have some history disorder of pulmonary disease such as Non-small cell carcinoma of lung TNM and Primary small cell malignant neoplasm of lung TNM. 
+- Elderly's are more likely to die due to COVID-19.  
+- There are a fair number of COVID-19 infections died due to chronic comorbidities instead of COVID. 
+- COVID-19 infections are more likely to get other diseases such as heart diseases before they died. 
+- Patients who died due to covid-19 are more likely to have some history disorder of pulmonary disease such as Non-small cell carcinoma of lung TNM and Primary small cell malignant neoplasm of lung TNM. 
