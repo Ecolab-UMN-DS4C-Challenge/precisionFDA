@@ -117,8 +117,8 @@ The features used for predicting alive or deceased status are:
 - Healthcare expenses of patients 
 - History of pulmonary disease status of patients 
 - History of Viral pharyngitis disorder status of patients 
-- History of Chronic deasease status of patients
-- History of Cardiopathy deasease status of patients 
+- History of Chronic disease status of patients
+- History of Cardiopathy disease status of patients 
 - History of Oxygen Therapy status of patients 
 - Immunization status of patients 
 - Covid-19 Status prediction 
