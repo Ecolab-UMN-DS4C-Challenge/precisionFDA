@@ -85,7 +85,7 @@ The features used for predicting duration of ICU stay are:
 - Age of patients
 - Various Conditions
 - Various Observation values
-- Covid-19 model predictions
+- COVID-19 model predictions
 
 ## Protection and Risk Factors
 
@@ -101,7 +101,7 @@ The features used for predicting controlled ventilation status are:
 - Obesity of patients
 - Race of patients
 - Healthcare expenses of the patient
-- Covid-19 Test result of the patient
+- COVID-19 Test result of the patient
 - Number of days spent in ICUs
 
 ## Protection and Risk Factors
@@ -121,7 +121,7 @@ The features used for predicting alive or deceased status are:
 - History of Cardiopathy disease status of patients 
 - History of Oxygen Therapy status of patients 
 - Immunization status of patients 
-- Covid-19 Status prediction 
+- COVID-19 Status prediction 
 - Days Hospitalized prediction
 - Days in ICU prediction
 - Days ventilation prediction
@@ -136,4 +136,4 @@ There are a fair number of COVID-19 infections died due to chronic comorbidities
 
 COVID-19 infections are more likely to get other diseases such as heart diseases before they died. 
 
-Patients who died due to covid-19 are more likely to have some history disorder of pulmonary disease such as Non-small cell carcinoma of lung TNM and Primary small cell malignant neoplasm of lung TNM. 
+Patients who died due to COVID-19 are more likely to have some history disorder of pulmonary disease such as Non-small cell carcinoma of lung TNM and Primary small cell malignant neoplasm of lung TNM. 
